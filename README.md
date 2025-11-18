@@ -11,10 +11,10 @@ This project showcases real-time 3D rendering, smooth lane animations, first-per
 ## 📸 Screenshots  
 <img width="795" height="587" alt="image" src="https://github.com/user-attachments/assets/b1a4618f-0d33-4e43-bbd5-b3156f9f7ca4" />
 
-3rd
+### Third-Person Camera  
 <img width="796" height="596" alt="image" src="https://github.com/user-attachments/assets/8f5974eb-bbf0-46c2-94f1-0ea4166a1a10" />
 
-1st
+### First-Person Camera  
 <img width="801" height="592" alt="image" src="https://github.com/user-attachments/assets/042f493d-7680-44e2-803c-146c719f7ecc" />
 
 
@@ -60,3 +60,12 @@ This project showcases real-time 3D rendering, smooth lane animations, first-per
 | **ESC** | Back to menu / Quit (on menu) |
 | **R** | Restart after Game Over |
 | **M** | Back to Main Menu |
+
+## 🕹️ itch.io
+https://peakied.itch.io/car-avoidance
+
+## 🕹️ model
+Car model: https://www.cgtrader.com/free-3d-models/car/suv/jeep-renegade-a-5-doors-compact-suv-from-2016
+Cone model: https://www.cgtrader.com/free-3d-models/architectural/architectural-street/traffic-cone-2d74f099-afb3-4883-bbd6-979d5a97947c
+Barrel model: https://www.cgtrader.com/free-3d-models/industrial/other/oil-drum-lowpoly-3d-model
+Building model: https://sketchfab.com/3d-models/game-ready-city-building-2bd7122c0f774cb48565187848154436, https://sketchfab.com/3d-models/building-582a0818473c49d99149fa2d15c851a9
