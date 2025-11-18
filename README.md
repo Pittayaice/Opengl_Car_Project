@@ -1,5 +1,6 @@
 # 🚗 Car Avoidance 3D Game  
 https://github.com/user-attachments/assets/254aed8b-470d-400a-aa97-1df24b64e2ac
+
 A fast-paced 3-lane obstacle-dodging game built with **C++**, **OpenGL**, **GLFW**, **GLM**, and **Assimp**.  
 This project showcases real-time 3D rendering, smooth lane animations, first-person and third-person camera modes, dynamic obstacles, buildings, score progression, and FreeType text rendering.
 
